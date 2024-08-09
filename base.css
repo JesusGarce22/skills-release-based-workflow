@@ -105,9 +105,7 @@ nav,
 section {
   display: block;
 }
-body {
-  /* Add background-color declaration here */
-}
+
 ol,
 ul {
   list-style: none;
@@ -138,4 +136,8 @@ table {
 /* Give canvas a background */
 canvas {
   background-color: black;
+}
+
+body {
+background-color: black;
 }
